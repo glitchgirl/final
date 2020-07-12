@@ -2,9 +2,13 @@
 for details on configuring this project to bundle and minify static web assets. */
 
 a.navbar-brand {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+container {
+    background-color: #4fcde0;
 }
 
 /* Provide sufficient contrast against white background */
@@ -19,9 +23,9 @@ a {
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+    color: #fff;
+    background-color: #4fcde0;
+    border-color: #1861ac;
 }
 
 /* Sticky footer styles
@@ -36,10 +40,10 @@ html {
 }
 
 .border-top {
-  border-top: 1px solid #e5e5e5;
+    border-top: 1px solid #4fcde0;
 }
 .border-bottom {
-  border-bottom: 1px solid #e5e5e5;
+    border-bottom: 1px solid #4fcde0;
 }
 
 .box-shadow {
@@ -71,7 +75,7 @@ body {
 }
 
 .dropbtn {
-    background-color: #4CAF50;
+    background-color: #0033ff;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -108,7 +112,7 @@ body {
 }
 
 .dropdown:hover .dropbtn {
-    background-color: #3e8e41;
+    background-color: #4fcde0;
 }
 
 /*image resizing*/
