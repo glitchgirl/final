@@ -16,7 +16,7 @@
     </div>
     <div class="col-sm-2"></div>
     <div class="col-sm-5">
-        <h2>@Model.Address</h2>
+        <h2> @Model.Address </h2> 
         <table class="table table-bordered">
             <tr>
                 <td><b>Price:</b></td>
@@ -26,7 +26,10 @@
                 <td><b>Square Feet:</b></td>
                 <td> @Model.SqFt ft</td>
             </tr>
-            
+            <tr>
+                <td><b>County:</b></td>
+                <td>@ViewBag.Regioon</td>
+            </tr>
             <tr>
                 <td><b>Year Built:</b></td>
                 <td> @Model.Year</td>
