@@ -100,6 +100,156 @@ namespace Smtih_Midterm.Migrations
                             RegionId = 2,
                             SqFt = 3371,
                             Year = 2018
+                        },
+                        new
+                        {
+                            HouseId = 3,
+                            AC = "No Data",
+                            Address = "740 Meadow Hill Dr, Grovetown, GA",
+                            BathCount = 2,
+                            BedRCount = 3,
+                            CodeOut = "out3.jpg",
+                            Heating = "Heat pump",
+                            PhotoFilter = 3,
+                            Price = 250000,
+                            RegionId = 2,
+                            SqFt = 1800,
+                            Year = 2018
+                        },
+                        new
+                        {
+                            HouseId = 4,
+                            AC = "Central",
+                            Address = "325 Crown Heights Way, Grovetown, GA",
+                            BathCount = 2,
+                            BedRCount = 4,
+                            CodeOut = "out4.jpg",
+                            Heating = "Heat pump",
+                            PhotoFilter = 4,
+                            Price = 204900,
+                            RegionId = 2,
+                            SqFt = 1691,
+                            Year = 2015
+                        },
+                        new
+                        {
+                            HouseId = 5,
+                            AC = "No Data",
+                            Address = "535 Oak Brook Dr, Martinez, GA",
+                            BathCount = 3,
+                            BedRCount = 4,
+                            CodeOut = "out5.jpg",
+                            Heating = "Forced air",
+                            PhotoFilter = 5,
+                            Price = 239900,
+                            RegionId = 2,
+                            SqFt = 2106,
+                            Year = 1993
+                        },
+                        new
+                        {
+                            HouseId = 6,
+                            AC = "Central",
+                            Address = "213 Gardners Mill Rd, Augusta, GA",
+                            BathCount = 2,
+                            BedRCount = 4,
+                            CodeOut = "out6.jpg",
+                            Heating = "Forced air",
+                            PhotoFilter = 6,
+                            Price = 210000,
+                            RegionId = 1,
+                            SqFt = 2256,
+                            Year = 1972
+                        },
+                        new
+                        {
+                            HouseId = 7,
+                            AC = "No Data",
+                            Address = "3335 Wedgewood Dr, Augusta, GA ",
+                            BathCount = 2,
+                            BedRCount = 3,
+                            CodeOut = "out7.jpg",
+                            Heating = "Forced air",
+                            PhotoFilter = 7,
+                            Price = 149900,
+                            RegionId = 1,
+                            SqFt = 1452,
+                            Year = 1956
+                        },
+                        new
+                        {
+                            HouseId = 8,
+                            AC = "Central",
+                            Address = "4221 Rose Hill Dr, Hephzibah, GA ",
+                            BathCount = 2,
+                            BedRCount = 3,
+                            CodeOut = "out8.jpg",
+                            Heating = "Forced air",
+                            PhotoFilter = 8,
+                            Price = 124900,
+                            RegionId = 1,
+                            SqFt = 1415,
+                            Year = 1989
+                        },
+                        new
+                        {
+                            HouseId = 9,
+                            AC = "Central",
+                            Address = "1220 Green Hollow Run, Douglas, GA",
+                            BathCount = 3,
+                            BedRCount = 4,
+                            CodeOut = "out9.jpg",
+                            Heating = "Heat Pump",
+                            PhotoFilter = 9,
+                            Price = 249900,
+                            RegionId = 3,
+                            SqFt = 2441,
+                            Year = 1989
+                        },
+                        new
+                        {
+                            HouseId = 10,
+                            AC = "Central",
+                            Address = "215 Gaskin Ave N, Douglas, GA",
+                            BathCount = 3,
+                            BedRCount = 4,
+                            CodeOut = "out10.jpg",
+                            Heating = "Other",
+                            PhotoFilter = 10,
+                            Price = 229000,
+                            RegionId = 3,
+                            SqFt = 3662,
+                            Year = 1898
+                        },
+                        new
+                        {
+                            HouseId = 11,
+                            AC = "Central",
+                            Address = "1807 Robin Ln, Douglas, GA",
+                            BathCount = 5,
+                            BedRCount = 4,
+                            CodeOut = "out11.jpg",
+                            Heating = "Heat Pump, Other",
+                            PhotoFilter = 11,
+                            Price = 224000,
+                            RegionId = 3,
+                            SqFt = 34046,
+                            Year = 1992
+                        },
+                        new
+                        {
+                            HouseId = 12,
+                            AC = "Central",
+                            Address = "445 Westwood Heights Cir, Douglas, GA",
+                            BathCount = 4,
+                            BedRCount = 5,
+                            CodeOut = "out12.jpg",
+                            Heating = "Heat Pump, Other",
+                            PhotoFilter = 12,
+                            Price = 350000,
+                            RegionId = 3,
+                            SqFt = 3846,
+                            Year = 1989
                         });
                 });
 
@@ -137,6 +287,76 @@ namespace Smtih_Midterm.Migrations
                             Pic1 = "bathroom2.jpg",
                             Pic2 = "bedroom2.jpg",
                             Pic3 = "kitchen2.jpg"
+                        },
+                        new
+                        {
+                            PhotoFilter = 3,
+                            Pic1 = "bathroom3.jpg",
+                            Pic2 = "bedroom3.jpg",
+                            Pic3 = "kitchen3.jpg"
+                        },
+                        new
+                        {
+                            PhotoFilter = 4,
+                            Pic1 = "bathroom4.jpg",
+                            Pic2 = "bedroom4.jpg",
+                            Pic3 = "kitchen4.jpg"
+                        },
+                        new
+                        {
+                            PhotoFilter = 5,
+                            Pic1 = "bathroom5.jpg",
+                            Pic2 = "bedroom5.jpg",
+                            Pic3 = "kitchen5.jpg"
+                        },
+                        new
+                        {
+                            PhotoFilter = 6,
+                            Pic1 = "bathroom6.jpg",
+                            Pic2 = "bedroom6.jpg",
+                            Pic3 = "kitchen6.jpg"
+                        },
+                        new
+                        {
+                            PhotoFilter = 7,
+                            Pic1 = "bathroom7.jpg",
+                            Pic2 = "bedroom7.jpg",
+                            Pic3 = "kitchen7.jpg"
+                        },
+                        new
+                        {
+                            PhotoFilter = 8,
+                            Pic1 = "bathroom8.jpg",
+                            Pic2 = "bedroom8.jpg",
+                            Pic3 = "kitchen8.jpg"
+                        },
+                        new
+                        {
+                            PhotoFilter = 9,
+                            Pic1 = "bathroom9.jpg",
+                            Pic2 = "bedroom9.jpg",
+                            Pic3 = "kitchen9.jpg"
+                        },
+                        new
+                        {
+                            PhotoFilter = 10,
+                            Pic1 = "bathroom10.jpg",
+                            Pic2 = "bedroom10.jpg",
+                            Pic3 = "kitchen10.jpg"
+                        },
+                        new
+                        {
+                            PhotoFilter = 11,
+                            Pic1 = "bathroom11.jpg",
+                            Pic2 = "bedroom11.jpg",
+                            Pic3 = "kitchen11.jpg"
+                        },
+                        new
+                        {
+                            PhotoFilter = 12,
+                            Pic1 = "bathroom12.jpg",
+                            Pic2 = "bedroom12.jpg",
+                            Pic3 = "kitchen12.jpg"
                         });
                 });
 
@@ -164,6 +384,11 @@ namespace Smtih_Midterm.Migrations
                         {
                             RegionId = 2,
                             Name = "Columbia"
+                        },
+                        new
+                        {
+                            RegionId = 3,
+                            Name = "Coffee"
                         });
                 });
 

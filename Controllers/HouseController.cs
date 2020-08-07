@@ -43,6 +43,9 @@ namespace Smtih_Midterm.Controllers
             var categories = context.Regions.OrderBy(c => c.RegionId).ToList();
             Info info = context.Infos.Find(Id);
             Photos photos = context.Photos.Find(Id);
+            Region region = context.Regions.Find(Id);
+
+            string regioon = region.Name;
             string imageFilename1 = photos.Pic1;
             string imageFilename2 = photos.Pic2;
             string imageFilename3 = photos.Pic3;
@@ -51,6 +54,7 @@ namespace Smtih_Midterm.Controllers
             ViewBag.ImageFilename1 = imageFilename1;
             ViewBag.ImageFilename2 = imageFilename2;
             ViewBag.ImageFilename3 = imageFilename3;
+            ViewBag.Regioon = regioon;
 
             return View(info);
         }

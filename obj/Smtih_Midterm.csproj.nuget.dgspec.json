@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jamie\\source\\repos\\Smtih_Midterm\\Smtih_Midterm.csproj": {}
+    "C:\\Users\\jamie\\Desktop\\homewrok2\\Smith_final\\Smtih_Midterm\\Smtih_Midterm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jamie\\source\\repos\\Smtih_Midterm\\Smtih_Midterm.csproj": {
+    "C:\\Users\\jamie\\Desktop\\homewrok2\\Smith_final\\Smtih_Midterm\\Smtih_Midterm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jamie\\source\\repos\\Smtih_Midterm\\Smtih_Midterm.csproj",
+        "projectUniqueName": "C:\\Users\\jamie\\Desktop\\homewrok2\\Smith_final\\Smtih_Midterm\\Smtih_Midterm.csproj",
         "projectName": "Smtih_Midterm",
-        "projectPath": "C:\\Users\\jamie\\source\\repos\\Smtih_Midterm\\Smtih_Midterm.csproj",
+        "projectPath": "C:\\Users\\jamie\\Desktop\\homewrok2\\Smith_final\\Smtih_Midterm\\Smtih_Midterm.csproj",
         "packagesPath": "C:\\Users\\jamie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jamie\\source\\repos\\Smtih_Midterm\\obj\\",
+        "outputPath": "C:\\Users\\jamie\\Desktop\\homewrok2\\Smith_final\\Smtih_Midterm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
